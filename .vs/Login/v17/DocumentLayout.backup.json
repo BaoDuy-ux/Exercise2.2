@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TEC\\C#\\THUCHANH\\Login\\",
+  "WorkspaceRootPath": "C:\\C#\\Exercise2.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{909D9DCA-92A3-4968-9FFB-C963DDA293BA}|Login\\Login.csproj|c:\\users\\tec\\c#\\thuchanh\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{909D9DCA-92A3-4968-9FFB-C963DDA293BA}|Login\\Login.csproj|c:\\c#\\exercise2.2\\login\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D9DCA-92A3-4968-9FFB-C963DDA293BA}|Login\\Login.csproj|solutionrelative:login\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D9DCA-92A3-4968-9FFB-C963DDA293BA}|Login\\Login.csproj|C:\\C#\\Exercise2.2\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D9DCA-92A3-4968-9FFB-C963DDA293BA}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D9DCA-92A3-4968-9FFB-C963DDA293BA}|Login\\Login.csproj|C:\\C#\\Exercise2.2\\login\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{909D9DCA-92A3-4968-9FFB-C963DDA293BA}|Login\\Login.csproj|solutionrelative:login\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D9DCA-92A3-4968-9FFB-C963DDA293BA}|Login\\Login.csproj|c:\\c#\\exercise2.2\\login\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{909D9DCA-92A3-4968-9FFB-C963DDA293BA}|Login\\Login.csproj|solutionrelative:login\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D9DCA-92A3-4968-9FFB-C963DDA293BA}|Login\\Login.csproj|c:\\c#\\exercise2.2\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{909D9DCA-92A3-4968-9FFB-C963DDA293BA}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{909D9DCA-92A3-4968-9FFB-C963DDA293BA}|Login\\Login.csproj|c:\\users\\tec\\c#\\thuchanh\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{909D9DCA-92A3-4968-9FFB-C963DDA293BA}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{909D9DCA-92A3-4968-9FFB-C963DDA293BA}|Login\\Login.csproj|c:\\c#\\exercise2.2\\login\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D9DCA-92A3-4968-9FFB-C963DDA293BA}|Login\\Login.csproj|solutionrelative:login\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,25 +37,79 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\C#\\Exercise2.2\\Login\\Form2.cs",
+              "RelativeDocumentMoniker": "Login\\Form2.cs",
+              "ToolTip": "C:\\C#\\Exercise2.2\\Login\\Form2.cs*",
+              "RelativeToolTip": "Login\\Form2.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:06:15.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\C#\\Exercise2.2\\Login\\FormMain.cs",
+              "RelativeDocumentMoniker": "Login\\FormMain.cs",
+              "ToolTip": "C:\\C#\\Exercise2.2\\Login\\FormMain.cs",
+              "RelativeToolTip": "Login\\FormMain.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAEwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:33:23.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\Exercise2.2\\Login\\FormMain.cs",
+              "RelativeDocumentMoniker": "Login\\FormMain.cs",
+              "ToolTip": "C:\\C#\\Exercise2.2\\Login\\FormMain.cs [Design]",
+              "RelativeToolTip": "Login\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:19:11.569Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\Exercise2.2\\Login\\Form2.cs",
+              "RelativeDocumentMoniker": "Login\\Form2.cs",
+              "ToolTip": "C:\\C#\\Exercise2.2\\Login\\Form2.cs [Design]*",
+              "RelativeToolTip": "Login\\Form2.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T08:59:22.98Z",
+              "EditorCaption": " [Design]"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\TEC\\C#\\THUCHANH\\Login\\Login\\Form1.cs",
+              "DocumentMoniker": "C:\\C#\\Exercise2.2\\Login\\Form1.cs",
               "RelativeDocumentMoniker": "Login\\Form1.cs",
-              "ToolTip": "C:\\Users\\TEC\\C#\\THUCHANH\\Login\\Login\\Form1.cs*",
+              "ToolTip": "C:\\C#\\Exercise2.2\\Login\\Form1.cs*",
               "RelativeToolTip": "Login\\Form1.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T08:50:50.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TEC\\C#\\THUCHANH\\Login\\Login\\Form1.cs",
+              "DocumentMoniker": "C:\\C#\\Exercise2.2\\Login\\Form1.cs",
               "RelativeDocumentMoniker": "Login\\Form1.cs",
-              "ToolTip": "C:\\Users\\TEC\\C#\\THUCHANH\\Login\\Login\\Form1.cs [Design]*",
+              "ToolTip": "C:\\C#\\Exercise2.2\\Login\\Form1.cs [Design]*",
               "RelativeToolTip": "Login\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T08:50:14.909Z",
