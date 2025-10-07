@@ -1,8 +1,9 @@
-<img width="2557" height="1599" alt="image" src="https://github.com/user-attachments/assets/4796b949-e7dd-4aec-a718-91b94b7427d0" />Lê Đăng Bảo Duy MSSV:24520377
+<img width="2557" height="1599" alt="image" src="https://github.com/user-attachments/assets/4796b949-e7dd-4aec-a718-91b94b7427d0" />
+Lê Đăng Bảo Duy MSSV:24520377
 Đinh Nguyễn Tường Duy MSSV:24520366
 Nguyễn Đức Duy MSSV:24520386
 Huỳnh Nhật Duy MSSV:24520375
-
+Khó khăn: trong lúc thực hành merge code lại đã xảy ra những xung đột và lỗi push code lên github vì vậy bọn em đã quyết định làm gom lại trên 2 tài khoản nên chỉ cả bài chỉ có 2 branch, cả 4 bạn đều tham gia bài tập lần này. Vì đây là lần đầu nên bọn em chưa xử lý kịp thời nền đành phải chữa cháy bằng việc dùng ít tài khoản lại để tránh xung đột ạ. Cảm ơn cô đã đọc.
 Mô tả: 
 Bài làm có 2 form . 1 form đăng nhập , 1 form đăng ký , 1 database , 1 form đăng nhập thành công
 Hướng dẫn cài đặt:
